@@ -8,21 +8,20 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `\[preencher]`
-* DOI ou URL: `\[preencher]`
+* Referência completa: `SOUZA, Alcian Pereira de et al. INCLUSÃO DIGITAL E LETRAMENTO TECNOLÓGICO EM CONTEXTOS VULNERÁVEIS. Revista DCS, [S. l.], v. 22, n. 81, p. e3229 , 2025. DOI: 10.54899/dcs.v22i81.3229. Disponível em: https://ojs.revistadcs.com/index.php/revista/article/view/3229. Acesso em: 6 out. 2026.`
+* DOI ou URL: `https://doi.org/10.54899/dcs.v22i81.3229`
 * Base de origem: `\[preencher]`
-* Leitor responsável: `\[preencher]`
-* Data da leitura: `\[dd/mm/aaaa]`
-
+* Leitor responsável: Gabriel Ortega Vieira
+* Data da leitura:  06/10/2026
 ## Fichamento
 
 ### Problema investigado
 
-`\[preencher]`
+Inclusão  digital  e  do  letramento tecnológico em contextos vulneráveis.
 
 ### Objetivo do estudo
 
-`\[preencher]`
+Discutir  a interdependência entre inclusão digital e letramento tecnológico, analisar as principais barreiras que dificultam o acesso e o uso qualificado das TICs e
 
 ### Método utilizado
 
