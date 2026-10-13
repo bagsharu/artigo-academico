@@ -14,29 +14,29 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`Inclusão Digital e Acessibilidade`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`A exclusão digital em comunidades socialmente marginalizadas e seus impactos na desigualdade social, considerando as dificuldades de acesso à internet, aos dispositivos tecnológicos e ao conhecimento necessário para sua utilização.`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `Inclusão Digital`
+- Objeto estudado: `A exclusão digital e sua relação com as desigualdades sociais.`
+- Contexto ou aplicação: `omunidades socialmente vulneráveis que enfrentam dificuldades para acessar e utilizar recursos tecnológicos no cotidiano`
+- Aspecto que será analisado: ` Como a falta de acesso à tecnologia e de conhecimentos digitais pode agravar desigualdades sociais, limitando oportunidades de educação, trabalho e acesso a serviços essenciais.`
+- O que ficará fora do estudo: `Questões técnicas relacionadas ao desenvolvimento de softwares, equipamentos e infraestrutura de redes, além de análises aprofundadas sobre políticas públicas específicas.`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`Questões técnicas relacionadas ao desenvolvimento de softwares, equipamentos e infraestrutura de redes, além de análises aprofundadas sobre políticas públicas específicas.`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `Sim`
+- O tema pode ser estudado no prazo? `Sim`
+- O grupo possui acesso às fontes necessárias? `Sim`
 
 ## Produto da etapa
 
@@ -44,14 +44,15 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [X] O tema é específico.
+- [X] O tema é relevante.
+- [x] O tema é viável.
+- [X] O recorte está claro.
+- [X] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Bruna da Silva Sant'Ana` | `Brainstorming de ideias` |
+| `Gabriel Ortega Vieira` | `Brainstorming de ideias e Digitação` |
