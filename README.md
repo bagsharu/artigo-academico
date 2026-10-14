@@ -1,4 +1,3 @@
-# artigo-academico
 
 # Inclusão digital na Era Digital
 
