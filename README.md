@@ -52,7 +52,7 @@ O repositório também pode incluir o **resumo acadêmico**, elaborado com um re
 2. **YAMIN, Estêvão; GAVIRAGHI, Fabio Jardel (2023).** *Questão social, brecha digital e tecnologia: expressões de desigualdade na sociedade da informação.* Serviço Social & Sociedade, v. 146, n. 3, e6628318. [DOI](https://doi.org/10.1590/0101-6628.318).
 3. **HADDAD, Samir Rodrigues (2025).** *Cidadania digital e democracia: modelo de avaliação de iniciativas públicas de inclusão digital.* Cadernos Metrópole, v. 27, n. 63, e6368006. [DOI](https://doi.org/10.1590/2236-9996.2025-6368006-pt).
 
-## Organização sugerida do repositório
+## Organizaçãodo repositório
 
 ```text
 inclusao-digital/
@@ -67,8 +67,6 @@ inclusao-digital/
 └── referencias/
     └── README.md
 ```
-
-> **Nota:** esta é uma sugestão de organização. Ajuste os nomes dos arquivos conforme os documentos que realmente forem enviados ao repositório. Para os artigos de terceiros, prefira disponibilizar os links dos DOI em vez de republicar os PDFs sem verificar as respectivas licenças.
 
 ## Considerações
 
